@@ -1,0 +1,12 @@
+
+
+虚拟化技术：
+
+VPS五种技术（Xen、OpenVZ、KVM、Hyper-V、VMWare）有什么区别？
+https://zhuanlan.zhihu.com/p/152144840
+
+虚拟化 - xen、kvm、vmware、hyper-v等虚拟化技术的比较
+https://www.likecs.com/show-412062.html
+
+公有云和私有云有什么区别具体是什么
+https://www.safedog.cn/news.html?id=5044
